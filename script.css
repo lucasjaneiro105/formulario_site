@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(253, 253, 253);
+    color: rgb(0, 0, 0)
+
+
+  }
+  input {
+    display: block;
+    width: 15%;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  label {
+    display: block;
+    width: 15%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  h4 {
+    display: block;
+    width: 15%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  small {
+    display: block;
+    width: 15%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  select {
+    display: block;
+    width: 15%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  button {
+    display: block;
+    width: 15%;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  h1 {
+    margin-bottom: 20px;
+    margin-left: 20px;
+    color: #0e0f0e8a;
+    text-shadow: 5px 5px 5px rgb(173, 173, 173);
+    text-align: center;
+}
